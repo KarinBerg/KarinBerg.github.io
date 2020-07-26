@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Me, myself and I</title>
-    <link>https://KarinBerg.github.io/</link>
+    <link>http://www.karinberg.de/</link>
     <description>Recent content on Me, myself and I</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://KarinBerg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.karinberg.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://KarinBerg.github.io/projects/</link>
+      <link>http://www.karinberg.de/projects/</link>
       <pubDate>Sun, 26 Jul 2020 17:27:52 +0200</pubDate>
       
-      <guid>https://KarinBerg.github.io/projects/</guid>
+      <guid>http://www.karinberg.de/projects/</guid>
       <description>Fill content for Project</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://KarinBerg.github.io/about/</link>
+      <link>http://www.karinberg.de/about/</link>
       <pubDate>Sun, 26 Jul 2020 17:27:12 +0200</pubDate>
       
-      <guid>https://KarinBerg.github.io/about/</guid>
+      <guid>http://www.karinberg.de/about/</guid>
       <description>Fill content for About</description>
     </item>
     

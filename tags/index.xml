@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Me, myself and I</title>
-    <link>https://KarinBerg.github.io/tags/</link>
+    <link>http://www.karinberg.de/tags/</link>
     <description>Recent content in Tags on Me, myself and I</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://KarinBerg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.karinberg.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
