@@ -3,21 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://karinberg.github.io/projects/</loc>
-    <lastmod>2020-07-26T17:27:52+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://karinberg.github.io/about/</loc>
     <lastmod>2020-07-26T17:27:12+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://karinberg.github.io/categories/</loc>
+    <loc>https://karinberg.github.io/projects/project2/</loc>
+    <lastmod>2020-05-29T17:27:12+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://karinberg.github.io/</loc>
+    <lastmod>2020-05-29T17:27:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karinberg.github.io/projects/</loc>
+    <lastmod>2020-05-29T17:27:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karinberg.github.io/projects/project3/</loc>
+    <lastmod>2019-07-11T17:27:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karinberg.github.io/projects/project1/</loc>
+    <lastmod>2011-03-16T17:27:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karinberg.github.io/categories/</loc>
   </url>
   
   <url>
