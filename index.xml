@@ -1,25 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
+    <title>KARINBERG</title>
     <link>https://karinberg.github.io/</link>
-    <description>Recent content on Home</description>
+    <description>Recent content on KARINBERG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2020 17:27:12 +0200</lastBuildDate><atom:link href="https://karinberg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 17:27:12 +0200</lastBuildDate><atom:link href="https://karinberg.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>flygge - Your camper navi</title>
+      <link>https://karinberg.github.io/projects/project4/</link>
+      <pubDate>Tue, 11 Jan 2022 17:27:12 +0200</pubDate>
+      
+      <guid>https://karinberg.github.io/projects/project4/</guid>
+      <description>Short description:
+flygge is a navigation app for motorhome drivers.
+If you want to navigate your motorhome today, you have the choice between free generic apps like Google Maps or expensive special apps with way too many features that are not useful for most campers. flygge is different: The first motorhome navigation focused on easy travel. Thanks to its own camper dimensions, live traffic or the special route guidance especially for your camper, flygge makes it easy for you to get to your destination.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
       <link>https://karinberg.github.io/about/</link>
       <pubDate>Sun, 26 Jul 2020 17:27:12 +0200</pubDate>
       
       <guid>https://karinberg.github.io/about/</guid>
       <description>Hi! I&amp;rsquo;m Karin
-I am currently working as a mobile developer at my own start-up flygge UG. Together with 3 co-founder, we want to make camper life more easy. Until this pays of, I work part-time for Mobisys GmbH as a DevOps Engineer.
-However, I&amp;rsquo;m not nailed down to that. I&amp;rsquo;m open to do whatever is necessary to create useful products. This is my passion and what drives me forward.</description>
+I am currently working part-time as a freelance mobile developer and DevOps Engineer. The other part I work as DevOps engineer for Mobisys.
+My background is diverse (you could say I&amp;rsquo;m a specialized generalist), but always close to coding. I have done a bit of everything, from backend development to mobile apps and devops topics.
+I love automation as a way to optimize processes and avoid repetitive work, and working in happy agile teams - where work is a way to design beautiful products that solve a problem, and not a mean by itself.</description>
     </item>
     
     <item>
-      <title>Binding library  for HEREMaps</title>
+      <title>Experience</title>
+      <link>https://karinberg.github.io/experience/</link>
+      <pubDate>Sun, 26 Jul 2020 17:27:12 +0200</pubDate>
+      
+      <guid>https://karinberg.github.io/experience/</guid>
+      <description>Over 18 years of experience working in all kind of project sizes and teams. I have developed digital products to help businesses and improve people&amp;rsquo;s lives, solving complex problems with simple solutions.
+2021 - now: Mobile Apps Developer + DevOps Engineer, Freelancer
+2022 - now: DevOps Engineer, Mobisys GmbH
+2019 - 2021: Mobile Apps Developer + DevOps Engineer (iOS, Android, Xamarin, Azure), Daimler-Truck AG
+2015 - 2019: Mobile Apps Developer (iOS, Android, Xamarin), Daimler-Fleetboard GmbH</description>
+    </item>
+    
+    <item>
+      <title>Binding library for HEREMaps</title>
       <link>https://karinberg.github.io/projects/project2/</link>
       <pubDate>Fri, 29 May 2020 17:27:12 +0200</pubDate>
       
@@ -48,6 +73,16 @@ Learn more and contribute on GitHub</description>
       <guid>https://karinberg.github.io/projects/project1/</guid>
       <description>iOS Mobile App: iCashBox
 App idea: The basic idea was to develop an app with which it is possible to manage a holiday fund or similar. Think of the next skiing holiday, for example. 5 people go skiing together and each one throws 100 € into the holiday fund to pay for food, petrol, etc. This app should help you to keep track of the expenses and receipts of each person.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s connect</title>
+      <link>https://karinberg.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://karinberg.github.io/contact/</guid>
+      <description>You have a project you would like to implement? You have a developer team that needs support?
+Contact me at hello(at)karinberg.de</description>
     </item>
     
   </channel>

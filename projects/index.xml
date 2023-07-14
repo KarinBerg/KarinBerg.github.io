@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Home</title>
+    <title>Projects on KARINBERG</title>
     <link>https://karinberg.github.io/projects/</link>
-    <description>Recent content in Projects on Home</description>
+    <description>Recent content in Projects on KARINBERG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2020 17:27:12 +0200</lastBuildDate><atom:link href="https://karinberg.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 17:27:12 +0200</lastBuildDate><atom:link href="https://karinberg.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Binding library  for HEREMaps</title>
+      <title>flygge - Your camper navi</title>
+      <link>https://karinberg.github.io/projects/project4/</link>
+      <pubDate>Tue, 11 Jan 2022 17:27:12 +0200</pubDate>
+      
+      <guid>https://karinberg.github.io/projects/project4/</guid>
+      <description>Short description:
+flygge is a navigation app for motorhome drivers.
+If you want to navigate your motorhome today, you have the choice between free generic apps like Google Maps or expensive special apps with way too many features that are not useful for most campers. flygge is different: The first motorhome navigation focused on easy travel. Thanks to its own camper dimensions, live traffic or the special route guidance especially for your camper, flygge makes it easy for you to get to your destination.</description>
+    </item>
+    
+    <item>
+      <title>Binding library for HEREMaps</title>
       <link>https://karinberg.github.io/projects/project2/</link>
       <pubDate>Fri, 29 May 2020 17:27:12 +0200</pubDate>
       
