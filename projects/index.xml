@@ -6,35 +6,48 @@
     <description>Recent content in Projects on KARINBERG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jan 2022 17:27:12 +0200</lastBuildDate>
-    <atom:link href="https://karinberg.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 17:27:12 +0200</lastBuildDate><atom:link href="https://karinberg.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>flygge - Your camper navi</title>
       <link>https://karinberg.github.io/projects/project4/</link>
       <pubDate>Tue, 11 Jan 2022 17:27:12 +0200</pubDate>
+      
       <guid>https://karinberg.github.io/projects/project4/</guid>
-      <description>Short description:&#xA;flygge is a navigation app for motorhome drivers.&#xA;If you want to navigate your motorhome today, you have the choice between free generic apps like Google Maps or expensive special apps with way too many features that are not useful for most campers. flygge is different: The first motorhome navigation focused on easy travel. Thanks to its own camper dimensions, live traffic or the special route guidance especially for your camper, flygge makes it easy for you to get to your destination.</description>
+      <description>Short description:
+flygge is a navigation app for motorhome drivers.
+If you want to navigate your motorhome today, you have the choice between free generic apps like Google Maps or expensive special apps with way too many features that are not useful for most campers. flygge is different: The first motorhome navigation focused on easy travel. Thanks to its own camper dimensions, live traffic or the special route guidance especially for your camper, flygge makes it easy for you to get to your destination.</description>
     </item>
+    
     <item>
       <title>Binding library for HEREMaps</title>
       <link>https://karinberg.github.io/projects/project2/</link>
       <pubDate>Fri, 29 May 2020 17:27:12 +0200</pubDate>
+      
       <guid>https://karinberg.github.io/projects/project2/</guid>
-      <description>Short description:&#xA;Xamarin Binding library to make HEREMaps Premium Edition SDKs (v.3.15) available for Xamarin.iOS and Xamarin.Android Apps. Latest project which tries to use the native iOS and Android HEREMaps SDK inside of an Xamarin app. First version looks promesing but I&amp;rsquo;m still in testing phase :)&#xA;Learn more and contribute on GitHub</description>
+      <description>Short description:
+A Xamarin Binding library to make HEREMaps Premium Edition SDKs (v.3.15) available for Xamarin.iOS and Xamarin.Android Apps. I started the project at the beginning of Corona in the time I was locked at home and in &amp;ldquo;Kurzarbeit&amp;rdquo;. I wanted to find out how hard it is to write a Binding library for HERE maps. First version looked promesing but it is a lot of work to cover all functionality of the HERE SDK.</description>
     </item>
+    
     <item>
       <title>Microsoft AppCenter Exporter</title>
       <link>https://karinberg.github.io/projects/project3/</link>
       <pubDate>Thu, 11 Jul 2019 17:27:12 +0200</pubDate>
+      
       <guid>https://karinberg.github.io/projects/project3/</guid>
-      <description>Short description:&#xA;Prometheus exporter for Microsoft AppCenter information e.g. the ui test runs. This project is a copy of the Azure DevOps Exporter which I adjusted to scrape information from the Microsoft AppCenter instead of MicrosoftAzure DevOps. We use it to alert us in case of failing ui tests of our apps.&#xA;Learn more and contribute on GitHub</description>
+      <description>Short description:
+A Prometheus exporter for Microsoft AppCenter information e.g. the ui test runs. This project was a copy of the Azure DevOps Exporter which I adjusted to scrape information from the Microsoft AppCenter instead of MicrosoftAzure DevOps. We used it to alert us in case of failing ui tests of our apps.
+Learn more and contribute on GitHub</description>
     </item>
+    
     <item>
       <title>iCashBox - From idea to App Store in 48 hours</title>
       <link>https://karinberg.github.io/projects/project1/</link>
       <pubDate>Wed, 16 Mar 2011 17:27:12 +0200</pubDate>
+      
       <guid>https://karinberg.github.io/projects/project1/</guid>
-      <description>iOS Mobile App: iCashBox&#xA;App idea: The basic idea was to develop an app with which it is possible to manage a holiday fund or similar. Think of the next skiing holiday, for example. 5 people go skiing together and each one throws 100 € into the holiday fund to pay for food, petrol, etc. This app should help you to keep track of the expenses and receipts of each person.</description>
+      <description>iOS Mobile App: iCashBox
+App idea: The basic idea was to develop an app with which it is possible to manage a holiday fund or similar. Think of the next skiing holiday, for example. 5 people go skiing together and each one throws 100 € into the holiday fund to pay for food, petrol, etc. This app should help you to keep track of the expenses and receipts of each person.</description>
     </item>
+    
   </channel>
 </rss>
